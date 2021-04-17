@@ -1,0 +1,11 @@
+/.Private/
+
+/**/tmp.*
+/**/*.zip
+/**/*.wav
+/**/*.webm
+
+/Crawler/data/
+/Crawler/chromedriver
+
+/tensorflow-tutorials/
